@@ -1,4 +1,4 @@
-#iPhone 3 in 1 Calculator 
+# iPhone-Calculator-3-in-1
 
 This iPhone app has three calculators in one: Tip, Invesint and regular.
 
