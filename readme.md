@@ -2,6 +2,8 @@
 
 This iPhone app has three calculators in one: Tip, Investing and regular calculator in one.
 
+It was built with Java using Xcode IDE. 
+
 ![Alt text](iphonecalc.png?raw=true "Title")
 
 
