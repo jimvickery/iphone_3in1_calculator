@@ -2,7 +2,7 @@
 
 This iPhone app has three calculators in one: Tip, Invesint and regular.
 
-![Alt text](balloongm.png?raw=true "Title")
+![Alt text](iphonecalc.png?raw=true "Title")
 
 
 1. Clone the Repo
