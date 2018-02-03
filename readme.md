@@ -6,6 +6,9 @@ This app was built with Java using Xcode IDE.
 
 ![Alt text](iphonecalc.png?raw=true "Title")
 
+![Alt text](3 in 1Calc.png?raw=true "Title")
+
+
 Deployment Instructions:
 
 1. Clone the Repo
