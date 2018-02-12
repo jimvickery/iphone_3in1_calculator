@@ -10,10 +10,19 @@ This app was built with the Swift programming language using Xcode IDE.
 ![Alt text](3in1Calc.png?raw=true "Title")
 
 
-Deployment Instructions: (Make sure you have Xcode installed on Mac. Installing Xcode on Windows can be difficult and impossible for some to get it working.)
+## Deployment Instructions: 
+(Make sure you have Xcode installed on Mac. Installing Xcode on Windows can be difficult and impossible for some to get it working.)
 
+```
 1. Clone the Repo
+```
+```
 2. Open the repo in Xcode
+```
+```
 3. Run the program inside Xcode to run and modify it as desired.
+```
+```
 4. Enjoy.
+```
  
