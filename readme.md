@@ -25,4 +25,4 @@ This app was built with the Swift programming language using Xcode IDE.
 ```
 4. Enjoy.
 ```
- 
+The app will is coming to iTunes soon.
