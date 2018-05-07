@@ -11,7 +11,7 @@ This app was built with Swift using Xcode IDE.
 
 
 ## Deployment Instructions: 
-(Make sure you have Xcode installed on Mac. Installing Xcode on Windows can be difficult and impossible for some to get it working.)
+(Make sure you have Xcode installed on a Mac computer. Installing Xcode on Windows can be difficult to get it working.)
 
 ```
 1. Clone the Repo
