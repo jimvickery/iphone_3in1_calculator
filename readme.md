@@ -1,6 +1,6 @@
 # iPhone-Calculator-3-in-1
 
-This iPhone app has three calculators in one: Tip, Investing and regular calculator.
+This iPhone app is a three in one calculator: Tip, Investing and regular calculator.
 
 This app was built with Swift using Xcode IDE. 
 
